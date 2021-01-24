@@ -1,0 +1,10 @@
+PS C:\Users\User\Documents\Pre-course\.vscode> node .\source.js
+Debugger listening on ws://127.0.0.1:52316/4feecef9-5c81-47e9-b2b0-b9cd36467a3b
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+hello world
+Waiting for the debugger to disconnect...
+
+איך לבדוק אם ספריה מסוימת קיימת בCMD
+דוגמא כאשר בודקות לגבי npm
+npm -v
